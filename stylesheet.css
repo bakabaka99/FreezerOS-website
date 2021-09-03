@@ -1,0 +1,30 @@
+body {
+    font-family: "Avenir Next";
+    margin: 0 auto
+  }
+  .header {
+      background-color: #63c9ff;
+      width: auto;
+      height: 50px;
+      padding: 20px 30px;
+  }
+  .body{
+      background-color:blue;
+      width: auto;
+      height: 800px;
+      color: #c2c2c2;
+  }
+  .title {
+    padding:100px 200px;
+    font-family: 'Jost';font-size: 50px;
+  }
+  .letter{
+    padding:10px 20px;
+  }
+  .letter aa{
+      font-family: 'Jost';font-size: 20px;
+  }
+  .letter ab{
+    padding:10px 20px;
+    font-family: 'Jost';font-size: 30px;
+}
